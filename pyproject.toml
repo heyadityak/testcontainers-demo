@@ -9,7 +9,7 @@ readme = "README.md"
 python = "^3.12"
 flask = "^3.1.1"
 dnslib = "^0.9.26"
-requests = "^2.32.3"
+requests = "^2.33.0"
 click = "^8.2.1"
 gunicorn = "^23.0.0"
 redis = "^6.2.0"
@@ -18,7 +18,7 @@ testcontainers = "^4.10.0"
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.4.0"
 testcontainers = "^4.10.0"
-requests = "^2.32.4"
+requests = "^2.33.0"
 
 [build-system]
 requires = ["poetry-core"]
